@@ -1,0 +1,14 @@
+                                                             Nagyváti Rómeó A
+1.  Inline elemet oda teszümk ahova akarunk pl:img
+    Block szintű elem mindig új sorban kezdődik hiában van az elöző sorban csak egy betű pl:div, p
+2.  <meta charset='refresh' content='5'>
+3.  <>
+4.  
+5.  <img scr='../../Másik/Image/kep.jpg' />
++1  <!DOCTYPE html>
+    <html>
+    <head>
+    </head>
+    <body>
+    </body>
+    </html>
